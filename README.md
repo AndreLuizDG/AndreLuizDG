@@ -1,7 +1,4 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuizDG&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizDG&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### Olá Mundo!👋
 
 <div style="display: inline_block"><br>
 <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />

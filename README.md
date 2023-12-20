@@ -3,9 +3,9 @@
 ## Sobre Mim
 👨‍💻 Desenvolvedor SAP/ABAP apaixonado por programação e tecnologia.
 
-🎓 Atualmente cursando o quarto semestre de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Lins.
+🎓 Cursando o quinto semestre de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Lins.
 
-🚀 Experiência na Iteam, empresa especializada em desenvolvimento de soluções customizadas em SAP/ABAP para clientes de diversos segmentos.
+🚀 Atualmente trabalho na Iteam, empresa especializada em desenvolvimento de soluções customizadas em SAP/ABAP para clientes de diversos segmentos.
 
 🌐 Conhecimentos em C, Java, JavaScript, HTML, CSS e ABAP.
 

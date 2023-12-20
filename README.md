@@ -13,7 +13,7 @@
 
 ## Linguagens e Ferramentas
 ![ABAP](https://img.shields.io/badge/ABAP-527498?style=for-the-badge&logo=sap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 
 ## Estatísticas do GitHub

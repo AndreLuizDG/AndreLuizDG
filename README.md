@@ -7,7 +7,7 @@
 
 🚀 Atualmente trabalho na Iteam, empresa especializada em desenvolvimento de soluções customizadas em SAP/ABAP para clientes de diversos segmentos.
 
-🌐 Conhecimentos em C, Java, JavaScript, HTML, CSS e ABAP.
+🌐 Conhecimentos em ABAP, Java, JavaScript, HTML, CSS, Dart e Flutter.
 
 📚 Busco constantemente novos conhecimentos e desafios desde meu início em 2020 no curso de Suporte e Manutenção em Informática na Etec de Lins.
 

@@ -1,6 +1,4 @@
 # Bem-vindo ao Meu Perfil! 👋
-
-## Sobre Mim
 👨‍💻 Desenvolvedor SAP/ABAP apaixonado por programação e tecnologia.
 
 🎓 Cursando o quinto semestre de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Lins.
@@ -22,7 +20,6 @@
 ![S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
 
 ## Estatísticas do GitHub
 <div align="center">

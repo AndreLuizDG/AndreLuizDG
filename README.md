@@ -11,6 +11,8 @@
 
 📚 Busco constantemente novos conhecimentos e desafios desde meu início em 2020 no curso de Suporte e Manutenção em Informática na Etec de Lins.
 
+![Snake animation](https://github.com/AndreLuizDG/AndreLuizDG/blob/output/github-contribution-grid-snake.svg)
+
 ## Tecnologias Principais
 ![ABAP](https://img.shields.io/badge/ABAP-527498?style=for-the-badge&logo=sap&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

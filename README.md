@@ -1,26 +1,33 @@
-# Bem-vindo ao Meu Perfil! 👋
-👨‍💻 Desenvolvedor SAP/ABAP apaixonado por programação e tecnologia.
+<h1 align="center"> Bem-vindo ao meu perfil 👋🏻 </br> </h1>
 
-🎓 Cursando o quinto semestre de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Lins.
+👨‍💻 Desenvolvedor ABAP/PI
 
-🚀 Atualmente trabalho na Iteam, empresa especializada em desenvolvimento de soluções customizadas em SAP/ABAP para clientes de diversos segmentos.
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Lins.
 
-🌐 Conhecimentos em ABAP, Java, JavaScript, HTML, CSS, Dart e Flutter.
+💼 Atualmente trabalho como desenvolvedor ABAP/PI Jr na consultoria ITeam, desenvolvendo soluções customizadas para o ERP SAP para clientes de diversos segmentos como por exemplo: Bracell, Braskem, Decathlon, Raízen e Votorantim.
 
-📚 Busco constantemente novos conhecimentos e desafios desde meu início em 2020 no curso de Suporte e Manutenção em Informática na Etec de Lins.
+📚 Conhecimentos em ABAP, SAP PI, Java, HTML, CSS, JavaScript
 
-## Tecnologias
-![ABAP](https://img.shields.io/badge/ABAP-527498?style=for-the-badge&logo=sap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuizDG&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Estatísticas do GitHub
-<div align="center">
-  <img height="145px" src="https://github-readme-stats.vercel.app/api?username=AndreLuizDG&theme=dracula&show_icons=true" />
-  <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizDG&layout=compact&theme=dracula" />
-</div>
+<h2>🧑🏻‍💻 Experiência</h2>
+  
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
 
+- 🧑🏻‍💻 **Desenvolvedor ABAP/PI Jr**\
+📆 2023 - Atual\
+📍 **Iteam** - Lins/SP, Brasil
+
+</details>
+
+<h2>🎓 Formação</h2>
+  
+- 📖 **Análise e Desenvolvimento de Sistemas**\
+📆 2022 - 2024\
+📍 **Fatec Lins** - Lins/SP, Brasil
+          
 ## Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andreluizguilhermini@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-guilhermini-b5121224a/)

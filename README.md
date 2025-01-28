@@ -8,7 +8,8 @@
 
 📚 Conhecimentos em ABAP, SAP PI, Java, HTML, CSS, JavaScript
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuizDG&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuizDG&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizDG&layout=compact&theme=github_dark&hide_border=true)
 
 <h2>🧑🏻‍💻 Experiência</h2>
   

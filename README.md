@@ -6,7 +6,6 @@
 
 💼 Atualmente trabalho como desenvolvedor ABAP/PI Jr na consultoria ITeam, desenvolvendo soluções customizadas para o ERP SAP para clientes de diversos segmentos como por exemplo: Bracell, Braskem, Decathlon, Raízen e Votorantim.
 
-📚 Conhecimentos em ABAP, SAP PI, Java, HTML, CSS, JavaScript
 
 [![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuizDG&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizDG&layout=compact&theme=github_dark&hide_border=true)
@@ -28,6 +27,14 @@
 - 📖 **Análise e Desenvolvimento de Sistemas**\
 📆 2022 - 2024\
 📍 **Fatec Lins** - Lins/SP, Brasil
+
+## Tecnologias
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
           
 ## Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andreluizguilhermini@gmail.com)
